@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\contactlistviewmodel\\contactlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\contactlistviewmodel\\contactlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\contactdetailsviewmodel\\contactdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\contactdetailsviewmodel\\contactdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\contactdetailsviewmodel\\contactdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\contactdetailsviewmodel\\contactdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\contactlistviewmodel\\contactlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E057C6D4-8C32-4C3D-87F2-9A1F7F5D0170}|mmv\\mmv.csproj|solutionrelative:mmv\\contactlistviewmodel\\contactlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "mmv\\Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\Model\\Contact.cs",
+              "RelativeToolTip": "mmv\\Model\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:45:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDetailsViewModel\\ContactDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactDetailsViewModel\\ContactDetails.xaml.cs",
+              "RelativeDocumentMoniker": "mmv\\ContactDetailsViewModel\\ContactDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactDetailsViewModel\\ContactDetails.xaml.cs",
+              "RelativeToolTip": "mmv\\ContactDetailsViewModel\\ContactDetails.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:37:54.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactDetailsViewModel\\ContactDetails.xaml",
+              "RelativeDocumentMoniker": "mmv\\ContactDetailsViewModel\\ContactDetails.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactDetailsViewModel\\ContactDetails.xaml",
+              "RelativeToolTip": "mmv\\ContactDetailsViewModel\\ContactDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T13:35:32.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactListViewModel\\ContactList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactListViewModel\\ContactList.xaml.cs",
+              "RelativeDocumentMoniker": "mmv\\ContactListViewModel\\ContactList.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactListViewModel\\ContactList.xaml.cs",
+              "RelativeToolTip": "mmv\\ContactListViewModel\\ContactList.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "mmv\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\MainWindow.xaml",
+              "RelativeToolTip": "mmv\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T13:33:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactList.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactListViewModel\\ContactList.xaml",
+              "RelativeDocumentMoniker": "mmv\\ContactListViewModel\\ContactList.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\ContactListViewModel\\ContactList.xaml",
+              "RelativeToolTip": "mmv\\ContactListViewModel\\ContactList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T13:33:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "mmv\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\mmv\\mmv\\MainWindow.xaml.cs",
+              "RelativeToolTip": "mmv\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:33:52.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
